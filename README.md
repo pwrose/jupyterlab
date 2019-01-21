@@ -30,7 +30,7 @@ For example, the Binder badge above goes to the following URL:
 `http://mybinder.org/v2/gh/binder-examples/jupyterlab/master?urlpath=lab/tree/index.ipynb`
 
 Note: this repository also installs several JupyterLab extensions via a `postBuild` script, allowing
-you to use JupyterLab's extensions and widgets functionality.
+you to use JupyterLab's extensions and widgets functionality. 
 
 For a more complete demo of JupyterLab using Binder, see the
 [JupyterLab Demo](https://github.com/jupyterlab/jupyterlab-demo). 
